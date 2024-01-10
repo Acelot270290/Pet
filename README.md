@@ -1,4 +1,4 @@
-# Api Pata Pet-Shop
+# Api Pet Pet-Shop
 
 Um pet shop entrou em contato com você e pediu que fosse criado uma aplicação onde seria registrado todos os clientes, seus bichinhos e agendamento de consultas.
 
